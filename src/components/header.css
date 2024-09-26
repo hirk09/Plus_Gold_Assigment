@@ -1,0 +1,38 @@
+/* Button styling for the download button */
+.download-button {
+  background: #9d002b;
+  color: #fff;
+  border: unset;
+  border-radius: 19px;
+  padding: 10px 26px;
+  font-size: 16px;
+}
+
+/* Container for the header menu */
+.menu-div {
+  padding: 20px 40px;
+  border-bottom: 1px solid #0000000f;
+}
+
+/* Styling for each menu item */
+.menu-text {
+  color: #141414;
+  padding: 0 25px;
+}
+
+/* Styling for the first shark icon */
+.shart-1 {
+  width: 36px;
+  position: absolute;
+  bottom: -22px;
+  right: 4px;
+}
+
+/* Styling for the second shark icon */
+.shart-2 {
+  width: 36px;
+  position: absolute;
+  rotate: 150deg;
+  top: -14px;
+  left: 6px;
+}

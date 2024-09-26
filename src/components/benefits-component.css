@@ -1,0 +1,24 @@
+.benefits-container {
+    background: #fff;
+    padding: 0 80px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  border-bottom: 1px solid #ffe6b5;
+    
+    .save-in-container {
+        font-size: 40px;
+    }
+    
+    .opt-text{
+        font-size: 14px;
+        font-weight: 400;
+        width: 340px;
+        margin: 24px 0 34px;
+    }
+    .hassle-free{
+        margin-right: 15px;
+        margin-top: 17px;
+    }
+}

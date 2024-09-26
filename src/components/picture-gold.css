@@ -1,0 +1,50 @@
+.pic-gold-container {
+  background: linear-gradient(to bottom, #fff, #ffe7b5a3);
+  padding: 0 80px;
+  height: 480px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+.save-in-container {
+  font-size: 40px;
+}
+
+.btn-sat {
+  margin: 36px 0 20px;
+}
+
+.trusted-by {
+  border: 1px solid #14141421;
+  border-radius: 19px;
+  padding: 10px 18px;
+  font-size: 14px;
+  background: #fff;
+}
+
+.powered-by {
+  font-size: 14px;
+  color: #0000007a;
+}
+
+.sona-backgroun-icon {
+  margin-left: 10px;
+  width: 90%;
+  left: 0;
+}
+}
+.feature-div {
+  padding: 20px 0px 20px 80px;
+  border: 1px solid #ffe6b5;
+  background: #fbfbfb;
+}
+
+.start-saving-now {
+  background: #9d002b;
+  color: #fff;
+  border: unset;
+  border-radius: 19px;
+  padding: 10px 18px;
+  font-size: 14px;
+  margin-right: 10px;
+}
