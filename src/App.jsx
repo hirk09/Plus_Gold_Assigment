@@ -18,13 +18,13 @@ function App() {
      <PictureGold />
      <BenefitsComponent />
      <HowItsWorkComponent />
-     <WhyGoldSafeComponent />
+     {/* <WhyGoldSafeComponent />
      <SavingPlusGoldComponent />
      <IntroGoldGiftComponent />
      <AppDownloadComponent />
      <MoneySecureComponent />
      <FooterContent />
-     <FooterTag />
+     <FooterTag /> */}
     </div>
   );
 }
